@@ -8,4 +8,3 @@
 * CSS
 * JAVASCRIPT
 
-#### Para jogar ("https://github.com/SamantaSouza357/jogo-forca/")
