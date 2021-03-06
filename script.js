@@ -1,3 +1,5 @@
+let modal = document.querySelector(".overlay");
+
 let palavras = ["programador", "algoritmo", "javascript", "html", "css", "web", "frontend", "backend", "fullstack", "desenvolvimento", "aplicativo", "jogo", "site", "software"];
 
 let palavra = palavras[Math.floor(Math.random() * palavras.length)];
