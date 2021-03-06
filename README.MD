@@ -8,4 +8,4 @@
 * CSS
 * JAVASCRIPT
 
-#### Para jogar ("https://github.com/hiago-buzz/405-jogo-da-velha/")
+#### Para jogar ("https://github.com/SamantaSouza357/jogo-forca/")
