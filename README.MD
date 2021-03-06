@@ -7,3 +7,5 @@
 * HTML
 * CSS
 * JAVASCRIPT
+
+#### Para jogar ("https://github.com/hiago-buzz/405-jogo-da-velha/")
